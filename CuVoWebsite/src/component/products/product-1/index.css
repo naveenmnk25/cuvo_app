@@ -139,3 +139,21 @@ ul.navbar-nav .nav-link {
     font-weight: 600;
     border-bottom: 3px solid;
 }
+
+/* changes */
+
+.col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+    text-align: center;
+}
+
+.child1 {
+    color: white;
+    padding: 0 18px;
+    text-align: center;
+}
