@@ -63,7 +63,7 @@ hr {
 
 .btn-primary {
   /* background: #2858d3 !important; */
-  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); */
   border-radius: 4px;
   border: 0;
 }
@@ -356,6 +356,7 @@ hr {
   font-size: 44px;
   line-height: 66px;
   color: #ffffff;
+  padding-bottom: 10px;
 }
 
 .tab-content h1 {
@@ -414,14 +415,9 @@ hr {
   border: 1px solid transparent;
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
-  /* background: #fff; */
   padding: 17px 49px;
   color: white;
   border-radius: 0px;
-  /* background-color: #dddde8; */
-  /* -webkit-border-radius: 4px 0px 0px 4px; */
-  /* -moz-border-radius: 4px 0px 0px 4px; */
-  /* border-radius: 4px 0px 0px 4px; */
 }
 
 .tab-vertical .nav-tabs .nav-link.active {
@@ -433,8 +429,6 @@ hr {
 .tab-vertical .nav-tabs .nav-link {
   text-transform: uppercase;
   border-bottom: 1px solid #ffffff20;
-  /* border-top-left-radius: 4px !important;
-  border-top-right-radius: 0px !important; */
   font-weight: 600;
   font-size: 18px;
   line-height: 20px;
@@ -442,12 +436,11 @@ hr {
 }
 
 .tab-vertical .tab-content {
-  overflow: auto;
-  /* -webkit-border-radius: 0px 4px 4px 4px;
-  -moz-border-radius: 0px 4px 4px 4px;
-  border-radius: 0px 4px 4px 4px; */
   background: #fff;
   padding: 30px;
+  height: 428px;
+  display: flex;
+  align-items: center;
 }
 
 #products a:active,

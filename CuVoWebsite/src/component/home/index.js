@@ -243,8 +243,8 @@ const HomePage = () => {
 
       <section id="products">
         <div className="container">
-          <div className="py-md-5 py-3">
-            <div className="row mb-md-4 mb-3">
+          <div className="py-md-5">
+            <div className="row ">
               <div className="col-12 px-0 text-center">
                 <h1 className="text-white text-center heading">Products</h1>
               </div>

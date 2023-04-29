@@ -39,7 +39,7 @@ const BlogSectionCommon = (homeBackGroundColor) => {
             </div>
           </div>
           <div className="row">
-            <div className="col-lg-6 col-md-6 col-12 mb-md-0 mb-lg-0 mb-3">
+            <div className="col-lg-5 col-md-6 col-12 mb-md-0 mb-lg-0 mb-3">
               <img
                 src="../assets/14.png"
                 className="img-fluid img-fluid-image-40"
