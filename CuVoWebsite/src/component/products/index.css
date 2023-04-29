@@ -1,0 +1,101 @@
+.send-feedback-image-40 {
+    width: 30px;
+    height: 26px;
+}
+
+.mobile-first-UX-image-50 {
+    margin-bottom: 12px;
+}
+
+.product-image-14 {
+    width: 100%;
+    height: 430px;
+}
+
+.product-Ellipse-7-image {
+    width: 44px;
+    height: 44px;
+}
+
+.product-page-banner {
+    background-image: url(../../../public/assets/img_home.png) !important;
+}
+
+.product-2 {
+    flex: 0 0 auto;
+    width: 76%;
+}
+
+.capabilities-des{
+    color: #040000;
+    opacity: 0.6;
+}
+
+.capabilities-card{
+    color: #040000;
+    font-size: 19px;
+}
+
+.card-dec{
+    color: #040000;
+    opacity: 0.5 !important;
+}
+
+.read-more-btn{
+    width: 149px;
+    height: 44px;
+    left: 645px;
+    top: 3476px;
+    margin-top: 2%;
+    background-color: #ffffff;
+}
+
+/*need to review*/
+.case-stu-section{
+    background-color: #EEF1F7 !important;
+}
+
+
+.book-demo-dec{
+    font-size: 14px;
+    line-height: 22px;
+    color: #040000;
+    opacity: 0.6;
+    width: 506px !important;
+}
+
+/* .form-label-all .form-label{
+    margin-bottom: 0.0rem;
+} */
+
+/* .form-prvc-trm-cnds-chk{
+    font-size: 12px !important;
+    line-height: 18px !important;
+} */
+
+.product-flex-img{
+    margin-top: 122px;
+}
+
+.overview {
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+.tab-vertical .nav-tabs .nav-link {
+    padding: 20px 49px;
+}
+
+.capability-sec .py-lg-5 {
+    padding-top: 4rem!important;
+    padding-bottom: 3rem!important;
+}
+
+#product-name .tab-vertical .nav-tabs .nav-link {
+    padding: 20px 20px;
+}
+
+.mobile-row .mt-2 {
+    margin-top: 0.5rem!important;
+    margin-right: 58px;
+}
