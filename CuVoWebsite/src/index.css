@@ -103,6 +103,7 @@ hr {
 .child1 {
   color: white;
   padding: 0 18px;
+  text-align: left !important;
 }
 
 .child1 h1 {
@@ -110,7 +111,6 @@ hr {
   font-weight: 700;
   line-height: 60px;
   margin-bottom: 0;
-  text-align: center;
 }
 
 .child1 p {
