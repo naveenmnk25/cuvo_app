@@ -24,7 +24,7 @@ h5 {
 p {
   font-weight: 500;
   font-size: 14px;
-  line-height: 23px;
+  line-height: 21px;
 }
 
 hr {
@@ -455,9 +455,6 @@ hr {
   text-decoration: none;
 }
 
-.text-start {
-  text-align: center !important;
-}
 
 #afterproducts .card-title {
   font-weight: 600;

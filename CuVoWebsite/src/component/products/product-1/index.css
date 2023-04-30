@@ -12,7 +12,7 @@
 }
 
 .overview-title h3{
-    font-weight: 600;
+    font-weight: 700;
     font-size: 44px;
     line-height: 50px;
     color: #040000;
@@ -149,11 +149,9 @@ ul.navbar-nav .nav-link {
 
 .mb-4 {
     margin-bottom: 1.5rem!important;
-    text-align: center;
 }
 
 .child1 {
     color: white;
     padding: 0 18px;
-    text-align: center;
 }
