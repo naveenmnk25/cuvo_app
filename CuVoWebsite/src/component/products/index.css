@@ -29,6 +29,7 @@
 .capabilities-des{
     color: #040000;
     opacity: 0.6;
+    padding-top: 0.4em;
 }
 
 .capabilities-card{
@@ -98,4 +99,10 @@
 .mobile-row .mt-2 {
     margin-top: 0.5rem!important;
     margin-right: 58px;
+}
+
+/* changes */
+
+button.btn.btn-primary.book-demo-submt-btn {
+    background: #2858D3;
 }

@@ -11,8 +11,9 @@ h3 {
 
 h2 {
   font-size: 44px;
-  font-weight: 600;
-  line-height: 60px;
+  font-weight: 700;
+  line-height: 55px;
+  color: #092146;
 }
 
 h5 {
@@ -103,7 +104,7 @@ hr {
 .child1 {
   color: white;
   padding: 0 18px;
-  text-align: left !important;
+  /* text-align: center !important; */
 }
 
 .child1 h1 {
@@ -132,7 +133,7 @@ hr {
   line-height: 17px;
   text-transform: uppercase;
   color: #ffffff;
-  padding: 14px 53px 13px 52px;
+  /* padding: 14px 53px 13px 52px; */
 }
 
 .child1 .btn-primary.float-end {
@@ -256,15 +257,15 @@ hr {
 }
 
 #usecases li.nav-item {
-  width: 321px;
+  width: 322px;
   text-align: center;
   font-weight: 600;
   color: #040000;
   border-bottom: 1px solid #b1b1b1;
-  border-right: 1px solid #b1b1b1;
+  border-right: 0px solid #b1b1b1;
   font-size: 18px;
   line-height: 20px;
-  height: 77px;
+  height: 84px;
 }
 
 #usecases .nav-tabs .nav-link {
@@ -366,7 +367,7 @@ hr {
   font-weight: 600;
   font-size: 26px;
   line-height: 39px;
-  color: #092146;
+  color: #040000;
 }
 
 .tab-content .desc {
@@ -512,8 +513,8 @@ hr {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 14px;
+  line-height: 22px;
   color: #040000;
   opacity: 0.6;
 }
@@ -523,11 +524,11 @@ hr {
 }
 
 .contacttext {
-  font-family: "Kumbh Sans" !important;
+  font-family: 'Poppins' !important;
   font-style: normal;
   font-weight: 500;
-  font-size: 18px;
-  line-height: 22px;
+  font-size: 14px;
+  line-height: 21px;
 
   color: #000000;
 
@@ -552,10 +553,10 @@ hr {
 }
 
 #contact .heading {
-  font-weight: 600;
-  font-size: 49px;
-  line-height: 74px;
-  color: #040000;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 55px;
+  color: #092146;
 }
 
 #contact input {
@@ -600,6 +601,8 @@ hr {
   font-size: 14px;
   line-height: 21px;
   opacity: 0.6;
+  font-family: "Kumbh Sans" !important;
+  text-align: center !important;
 }
 
 #afterproducts p.auhordesc {
@@ -717,6 +720,7 @@ hr {
 #leadership .card {
   background: #eef1f7;
   height: 615px;
+  border: none;
 }
 
 #leadership p {
@@ -753,6 +757,7 @@ hr {
 
 .customers {
   padding-left: 40px;
+  padding-bottom: 3em;
 }
 
 #resources .card {
@@ -801,9 +806,9 @@ hr {
 }
 
 #product-name .tab-content h1 {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 44px;
-  line-height: 66px;
+  line-height: 55px;
 }
 
 #product-name .tab-content h4 {
@@ -1196,8 +1201,3 @@ img.number3.num-per-svg {
 }
 
 
-/* changes */
-
-#usecases li.nav-item:active {
-  border-right: 1px solid transparent !important;
-}

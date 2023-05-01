@@ -38,6 +38,7 @@
 
 .card-ebook-second {
   background: #092146;
+  border: none;
 }
 
 .industries-detail-banner {
@@ -45,8 +46,8 @@
 }
 
 .media-text-spacing {
-  padding-left: 437px !important;
-  padding-right: 437px !important;
+  padding-left: 301px !important;
+  padding-right: 304px !important;
 }
 
 .media-text-heading {
@@ -65,7 +66,7 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  text-align: center;
+  text-align: center !important;
   color: #ffffff;
   opacity: 0.8;
   width: 793px;
@@ -73,8 +74,8 @@
 }
 
 .media-text-sub-heading-spacing {
-  padding-left: 323px !important;
-  padding-right: 324px !important;
+  padding-left: 263px !important;
+  padding-right: 276px !important;
 }
 
 .learn-more-btn-text {
@@ -183,7 +184,7 @@
 }
 
 .blogs-image-text-section {
-  padding-top: 30px;
+  padding-top: 24px;
 }
 
 .blogs-card-footer-text {
@@ -193,15 +194,15 @@
 .resources-heading-text {
   font-family: "Poppins";
   font-style: normal;
-  font-weight: 600;
-  font-size: 34px;
-  line-height: 51px;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 54px;
   text-align: center;
-  color: #040000;
+  color: #092146 !important;
 }
 
 .resources-heading-text-spacing {
-  padding-top: 69px;
+  padding-top: 39px;
   padding-bottom: 27px;
 }
 
@@ -246,4 +247,55 @@
   text-transform: uppercase !important;
   color: #ffffff !important;
   width: 200px;
+}
+
+button.btn.btn-primary.learn-more-btn-text {
+  background: #2858D3;
+  width: 200px;
+  height: 44px;
+  font-family: 'Kumbh Sans' !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+}
+
+h2.text-center.mb-4.use-case-text-heading {
+  text-align: center;
+}
+
+.nav-tabs .nav-link {
+  margin-bottom: -1px;
+  background: 0 0;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  border-right: 1px solid #b1b1b1;
+}
+
+button.btn.btn-primary {
+  background: #2858D3;
+  width: 200px;
+  height: 44px;
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.card {
+  border: 1px solid #2858D3;
+}
+
+.brand-checkbox {
+  margin-top: 1px !important;
+}
+
+.form-control {
+  border: 1px solid #DADFDF;
+}
+
+.banner industries-detail-banner .child1{
+  text-align: center !important;
 }

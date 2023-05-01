@@ -119,3 +119,61 @@
 .pb-6 {
   padding-bottom: 5rem !important;
 }
+
+
+/* changes*/
+
+.child1 h1 {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 60px;
+  font-family: 'Kumbh Sans';
+  margin-bottom: 0;
+  text-align: left !important;
+}
+
+.child1 {
+  text-align: left !important;
+}
+
+.child1 p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22.32px;
+  font-family: 'Kumbh Sans' !important;
+  opacity: 0.8;
+  margin-top: 1rem !important;
+}
+
+button.btn.btn-primary.about-us-watch-btn {
+  background: #2858D3;
+  height: 44px;
+}
+
+/* .row > .col-4:nth-child(2) > div > p {
+    padding-bottom: 1.4em;
+}
+
+.row > .col-4:nth-child(3) > div > p {
+    padding-bottom: 1.4em;
+} */
+
+.card-title {
+    color: #092146;
+}
+
+img.m-auto.img-fluid {
+  height: 440px;
+  width: 296px !important;
+}
+
+h1.pb-3.fw-bold.join-team-text {
+  font-family: 'Kumbh Sans';
+  line-height: 60px;
+}
+
+#join-team .btn-secondary {
+    height: 44px;
+}

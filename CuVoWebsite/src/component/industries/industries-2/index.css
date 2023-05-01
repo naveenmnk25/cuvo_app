@@ -44,10 +44,10 @@
     background-image: url(../../../../public/assets/industries-detail.png) !important;
 }
 
-.media-text-spacing {
+/* .media-text-spacing {
     padding-left: 437px !important;
     padding-right: 437px !important;
-}
+} */
 
 .media-text-heading {
     font-family: 'Kumbh Sans';
@@ -72,10 +72,10 @@
     margin-bottom: 36px;
 }
 
-.media-text-sub-heading-spacing {
+/* .media-text-sub-heading-spacing {
     padding-left: 323px !important;
     padding-right: 324px !important;
-}
+} */
 
 .learn-more-btn-text {
     font-family: 'Kumbh Sans' !important;
@@ -247,4 +247,12 @@
     text-transform: uppercase !important;
     color: #FFFFFF !important;
     width: 200px;
+}
+
+#afterproducts .card {
+    border: 1px solid #DADFDF;
+}
+
+.card-ebook-second {
+    border: none;
 }

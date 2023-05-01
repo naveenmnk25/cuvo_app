@@ -95,3 +95,8 @@
     margin-top: 0;
   }
 }
+
+
+#header .btn-primary {
+  height: 34px;
+}

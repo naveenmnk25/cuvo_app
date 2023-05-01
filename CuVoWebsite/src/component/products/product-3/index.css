@@ -10,3 +10,21 @@
 .product-detail-banner {
     background-image: url(../../../../public/assets/product-detail.png) !important;
 }
+
+
+.col.right-border.text-center .mt-2, h5, p {
+    text-align: left !important;
+}
+
+
+.explore-sec h2 {
+    text-align: left;
+}
+
+.explore-sec a {
+    margin-left: -125px;
+}
+
+#explore .btn {
+    width: 200px !important;
+}
