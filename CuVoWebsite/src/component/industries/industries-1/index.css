@@ -29,6 +29,22 @@
 }
 
 .card-ebook {
+  background: url(../../../../public/assets/images/icon/bg_ebook.png) no-repeat;
+  background-size: cover;
+}
+
+.bgebook3 {
+  background: url(../../../../public/assets/images/icon/bg_ebook_3.png) no-repeat;
+  background-size: cover;
+}
+
+.Whitelineimg {
+  background: url(../../../../public/assets/images/icon/bg_ebook_2.png) no-repeat;
+  background-size: cover;
+}
+
+.card-ebook::after {
+  content: "";
   background-color: #2858d3;
 }
 
@@ -172,7 +188,7 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 21px;
-  text-align: center;
+  text-align: center !important;
   color: #040000;
   opacity: 0.6;
 }
@@ -250,7 +266,7 @@
 }
 
 button.btn.btn-primary.learn-more-btn-text {
-  background: #2858D3;
+  /* background: #2858D3; */
   width: 200px;
   height: 44px;
   font-family: 'Kumbh Sans' !important;
@@ -274,7 +290,7 @@ h2.text-center.mb-4.use-case-text-heading {
 }
 
 button.btn.btn-primary {
-  background: #2858D3;
+  /* background: #2858D3; */
   width: 200px;
   height: 44px;
   font-family: 'Kumbh Sans';
@@ -296,6 +312,6 @@ button.btn.btn-primary {
   border: 1px solid #DADFDF;
 }
 
-.banner industries-detail-banner .child1{
+.banner industries-detail-banner .child1 {
   text-align: center !important;
 }

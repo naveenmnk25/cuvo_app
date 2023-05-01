@@ -99,19 +99,19 @@ const Header = () => {
                 <ul class="dropdown-menu">
                   <li className="dropdown-menu-li">
                     <Link to={PathConstants.PRODUCTPAGE1} className="dropdown-item">
-                      <img src="../assets/image 50.png" className="header-dropdown-menu-icon"></img>
+                      <img src="../assets/images/icon/ic_mobile.png" className="header-dropdown-menu-icon"></img>
                       <span className="header-dropdown-menu-text">CuVo Automate</span>
                     </Link>
                   </li>
                   <li className="dropdown-menu-li">
                     <Link to={PathConstants.PRODUCTPAGE2} className="dropdown-item">
-                      <img src="../assets/image 50.png" className="header-dropdown-menu-icon"></img>
+                      <img src="../assets/images/icon/ic_mobile.png" className="header-dropdown-menu-icon"></img>
                       <span className="header-dropdown-menu-text">CuVo Unify</span>
                     </Link>
                   </li>
                   <li className="dropdown-menu-li">
                     <Link to={PathConstants.PRODUCTPAGE3} className="dropdown-item">
-                      <img src="../assets/image 50.png" className="header-dropdown-menu-icon"></img>
+                      <img src="../assets/images/icon/ic_mobile.png" className="header-dropdown-menu-icon"></img>
                       <span className="header-dropdown-menu-text">CuVo Discover</span>
                     </Link>
                   </li>
@@ -132,13 +132,13 @@ const Header = () => {
                 <ul class="dropdown-menu">
                   <li className="dropdown-menu-li">
                     <Link to={PathConstants.INDUSTRIES1} className="dropdown-item">
-                      <img src="../assets/image 50.png" className="header-dropdown-menu-icon"></img>
+                      <img src="../assets/images/icon/ic_mobile.png" className="header-dropdown-menu-icon"></img>
                       <span className="header-dropdown-menu-text">Media and Entertainment</span>
                     </Link>
                   </li>
                   <li className="dropdown-menu-li">
                     <Link to={PathConstants.INDUSTRIES2} className="dropdown-item">
-                      <img src="../assets/image 50.png" className="header-dropdown-menu-icon"></img>
+                      <img src="../assets/images/icon/ic_mobile.png" className="header-dropdown-menu-icon"></img>
                       <span className="header-dropdown-menu-text">Mobile Applications</span>
                     </Link>
                   </li>

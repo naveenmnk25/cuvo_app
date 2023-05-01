@@ -55,7 +55,7 @@ const ProductOne = () => {
                         <div className="row">
                             <div className="col-4">
                                 <div className="overview_img">
-                                    <img src="../assets/image 43.png" className="img-fluid" />
+                                    <img src="../assets/images/home/img_product_de.png" className="img-fluid" />
                                 </div>
                             </div>
                             <div className="col-8">
@@ -98,10 +98,10 @@ const ProductOne = () => {
                                 <div className="tab-content col-10" id="myTabContent3">
                                     <div className="tab-pane fade show active mobile-tab" id="home-vertical" role="tabpanel"
                                         aria-labelledby="home-vertical-tab">
-                                        <div className="row">
+                                        <div className="row h-450p">
                                             <div className="col-3">
                                                 <div className="ps-2 position-relative iph">
-                                                    <img src="../assets/phone.png" className="img-fluid position-absolute" />
+                                                    <img src="../assets/images/home/mobile_Frame.png" className="img-fluid position-absolute" />
                                                 </div>
                                             </div>
                                             <div className="col ms-5">
@@ -115,15 +115,15 @@ const ProductOne = () => {
                                                 <div className="row mobile-row">
                                                     <div className="col right-border text-center">
                                                         <div className="mt-2">
-                                                            <img src="../assets/image 58.png" alt="" className="w-auto img-sto" />
+                                                            <img src="../assets/images/icon/ic_android.png" alt="" className="w-auto img-sto" />
 
-                                                            <img src="../assets/image 60.png" alt="" className="w-auto img-sto me-2" />
+                                                            <img src="../assets/images/icon/ic_apple.png" alt="" className="w-auto img-sto me-2" />
                                                         </div>
                                                         <h5 className="text-white mt-3">iOS and Android</h5>
                                                         <p className="productDesc text-white">Ionic support (Coming Soon)</p>
                                                     </div>
                                                     <div className="col right-border ms-3">
-                                                        <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                        <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                         <h5 className="text-white">Mobile first UX</h5>
                                                         <p className="productDesc text-white">Highly customizable look and feel</p>
                                                     </div>
@@ -146,19 +146,19 @@ const ProductOne = () => {
                                             pharetra, nec dapibus massa interdum.</p>
                                         <div className="d-flex justify-content-between" >
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
@@ -175,19 +175,19 @@ const ProductOne = () => {
                                             pharetra, nec dapibus massa interdum.</p>
                                         <div className="d-flex justify-content-between">
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
@@ -217,7 +217,7 @@ const ProductOne = () => {
                         <div className="row">
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -226,7 +226,7 @@ const ProductOne = () => {
                             </div>
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -235,7 +235,7 @@ const ProductOne = () => {
                             </div>
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -244,7 +244,7 @@ const ProductOne = () => {
                             </div>
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>

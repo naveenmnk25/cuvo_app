@@ -103,7 +103,7 @@ const HomePage = () => {
                       <div className="col-lg-2 engage-text-image">
                         <img
                           className="img-fluid"
-                          src="../assets/ic_two_waypng.png"
+                          src="../assets/images/icon/ic_mobile.png"
                           alt=""
                         />
                       </div>
@@ -121,7 +121,7 @@ const HomePage = () => {
                       <div className="col-lg-2">
                         <img
                           className="img-fluid"
-                          src="../assets/smart-tv 1.png"
+                          src="../assets/images/icon/ic_mobile.png"
                           alt=""
                         />
                       </div>
@@ -140,7 +140,7 @@ const HomePage = () => {
                       <div className="col-lg-2">
                         <img
                           className="img-fluid"
-                          src="../assets/artificial-intelligence 1.png"
+                          src="../assets/images/icon/ic_mobile.png"
                           alt=""
                         />
                       </div>
@@ -199,7 +199,7 @@ const HomePage = () => {
                   <p className="sub-heading">CUT COSTS BY</p>
                   {/* <p className="number1">30%</p> */}
                   <img
-                    src="../assets/Icons/30_percent.svg"
+                    src="../assets/images/icon/30_.png"
                     className="number1 num-per-svg"
                   />
 
@@ -213,7 +213,7 @@ const HomePage = () => {
                   <p className="sub-heading">IMPROVE CONSUMER RETENTION BY</p>
                   {/* <p className="number2">70%</p> */}
                   <img
-                    src="../assets/Icons/70_percent.svg"
+                    src="../assets/images/icon/70_.png"
                     className="number2 num-per-svg"
                   />
                   <p className="description">
@@ -228,7 +228,7 @@ const HomePage = () => {
                   </p>
                   {/* <p className="number3">200%</p> */}
                   <img
-                    src="../assets/Icons/200_percent.svg"
+                    src="../assets/images/icon/200_.png"
                     className="number3 num-per-svg"
                   />
                   <p className="description">
@@ -307,7 +307,7 @@ const HomePage = () => {
                       role="tabpanel"
                       aria-labelledby="home-vertical-tab"
                     >
-                      <div className="customers meet-customer-cuvo">
+                      <div className="customers meet-customer-cuvo ps-4">
                         <h1>Meet your consumers where they are</h1>
                         <p className="desc">
                           Cuvo can be deployed on any device and platform,
@@ -315,13 +315,13 @@ const HomePage = () => {
                         </p>
                       </div>
                       <Link to={PathConstants.PRODUCTPAGE1}>
-                        <div className="row mt-6">
+                        <div className="row mt-3">
                           <div className="col-lg-4 col-md-4 col-12 ">
                             <div className="right-border p-md-4">
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -379,12 +379,12 @@ const HomePage = () => {
                       </Link>
                     </div>
                     <div
-                      className="tab-pane fade"
+                      className="tab-pane fade "
                       id="contact-vertical"
                       role="tabpanel"
                       aria-labelledby="contact-vertical-tab"
                     >
-                      <div className="customers">
+                      <div className="customers ps-4">
                         <h1>Consumer 360</h1>
                         <p className="desc">
                           See and act on your user feedback in one place
@@ -441,12 +441,12 @@ const HomePage = () => {
                       </Link>
                     </div>
                     <div
-                      className="tab-pane fade"
+                      className="tab-pane fade "
                       id="profile-vertical"
                       role="tabpanel"
                       aria-labelledby="profile-vertical-tab"
                     >
-                      <div className="customers">
+                      <div className="customers ps-4">
                         <h1>Zero-Code Configuration</h1>
                         <p className="desc">
                           Save developer time for building your product.
@@ -819,7 +819,7 @@ const HomePage = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -894,7 +894,7 @@ const HomePage = () => {
                             <div className="row">
                               <div className="col-3 col-md-12 col-lg-12">
                                 <img
-                                  src="../assets/image 50.png"
+                                  src="../assets/images/icon/ic_mobile.png"
                                   alt=""
                                   className="img-fluid img-fluid-image-50"
                                 />
@@ -956,7 +956,7 @@ const HomePage = () => {
                             <div className="row">
                               <div className="col-3 col-md-12 col-lg-12">
                                 <img
-                                  src="../assets/image 50.png"
+                                  src="../assets/images/icon/ic_mobile.png"
                                   alt=""
                                   className="img-fluid img-fluid-image-50"
                                 />

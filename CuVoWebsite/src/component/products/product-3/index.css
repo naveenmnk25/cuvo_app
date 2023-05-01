@@ -8,11 +8,13 @@
 }
 
 .product-detail-banner {
-    background-image: url(../../../../public/assets/product-detail.png) !important;
+    background-image: url(../../../../public/assets/images/home/img_product_details.png) !important;
 }
 
 
-.col.right-border.text-center .mt-2, h5, p {
+.col.right-border.text-center .mt-2,
+h5,
+p {
     text-align: left !important;
 }
 

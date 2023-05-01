@@ -55,7 +55,7 @@ const IndustriesTwo = () => {
                         <div className="row">
                             <div className="col-md-4 col-12">
                                 <div className="overview_img">
-                                    <img src="../assets/overview_img.png" className="img-fluid" />
+                                    <img src="../assets/images/home/img_overview.png" className="img-fluid" />
                                 </div>
                             </div>
                             <div className="col-md-8 col-12">

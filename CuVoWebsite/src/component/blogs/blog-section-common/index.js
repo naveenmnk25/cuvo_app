@@ -139,7 +139,7 @@ const BlogSectionCommon = (homeBackGroundColor) => {
               </div>
             </div>
             <div className="col-12 col-md-12 col-sm-12 px-0">
-              <div className="d-flex flex-column align-items-center  mt-2">
+              <div className="d-flex flex-column align-items-center  mt-2 pb-2">
                 <button
                   className="mt-md-6 mt-4 btn-primary-read-more-btn"
                   type="submit"

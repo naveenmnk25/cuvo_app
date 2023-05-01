@@ -68,6 +68,7 @@
 .pT-87 {
   padding-top: 87px;
 }
+
 .pT-67 {
   padding-top: 50px;
 }
@@ -103,19 +104,24 @@
   line-height: 27px;
   color: #092146;
 }
+
 .mb-6 {
   margin-bottom: 4rem !important;
 }
+
 .card img {
   border-radius: 8px;
 }
+
 .card {
   border-radius: 12px;
   border: 1px solid #DADFDF;
 }
+
 .card-title {
   margin-bottom: 0px;
 }
+
 .pb-6 {
   padding-bottom: 5rem !important;
 }
@@ -148,7 +154,7 @@
 }
 
 button.btn.btn-primary.about-us-watch-btn {
-  background: #2858D3;
+  /* background: #2858D3; */
   height: 44px;
 }
 
@@ -161,7 +167,7 @@ button.btn.btn-primary.about-us-watch-btn {
 } */
 
 .card-title {
-    color: #092146;
+  color: #092146;
 }
 
 img.m-auto.img-fluid {
@@ -175,5 +181,5 @@ h1.pb-3.fw-bold.join-team-text {
 }
 
 #join-team .btn-secondary {
-    height: 44px;
+  height: 44px;
 }

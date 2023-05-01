@@ -8,17 +8,17 @@
 }
 
 .product-detail-banner {
-    background-image: url(../../../../public/assets/product-detail.png) !important;
+    background-image: url(../../../../public/assets/images/home/img_product_details.png) !important;
 }
 
-.overview-title h3{
+.overview-title h3 {
     font-weight: 700;
     font-size: 44px;
     line-height: 55px;
     color: #092146;
 }
 
-.overview-title p{
+.overview-title p {
     color: #040000;
     opacity: 0.6;
 }
@@ -27,25 +27,25 @@
     width: 144px;
 } */
 
-.mobile-tab .right-border  {
+.mobile-tab .right-border {
     height: 167px;
 }
 
-.mobile-row .img-sto{
+.mobile-row .img-sto {
     margin-right: 4px;
     padding: 4px;
 
 }
 
-.mb-app{
+.mb-app {
     color: "#ffffff" !important;
 }
 
-.capability-sec h2{
+.capability-sec h2 {
     color: #040000;
 }
 
-.capability-sec .px-md-5{
+.capability-sec .px-md-5 {
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
@@ -54,11 +54,11 @@
     opacity: 0.6;
 }
 
-.capability-sec .card-title{
+.capability-sec .card-title {
     color: #040000;
 }
 
-.capability-sec .card-body p{
+.capability-sec .card-body p {
     opacity: 0.5;
     color: #040000;
 }
@@ -69,18 +69,18 @@
     line-height: 66px !important;
     width: 100% !important;
     font-weight: 600 !important;
-   
+
 }
 
-.explore-sec .col-5{
+.explore-sec .col-5 {
     margin-top: 50px;
 }
 
-.explore-sec a{
+.explore-sec a {
     width: 100%;
 }
 
-.explore-sec .btn{
+.explore-sec .btn {
     width: 91% !important;
     padding: 13px;
     margin-right: 33px;
@@ -92,7 +92,7 @@
     text-transform: uppercase;
 }
 
-.explore-sec p{
+.explore-sec p {
     opacity: 0.5;
 }
 
@@ -115,7 +115,7 @@
     width: 22.666667%;
 }
 
-.read-more-btn{
+.read-more-btn {
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
@@ -148,7 +148,7 @@ ul.navbar-nav .nav-link {
 }
 
 .mb-4 {
-    margin-bottom: 1.5rem!important;
+    margin-bottom: 1.5rem !important;
 }
 
 .child1 {
@@ -169,7 +169,9 @@ ul.navbar-nav .nav-link {
     border: 1px solid #DADFDF !important;
 }
 
-.col.right-border.text-center .mt-2, h5, p {
+.col.right-border.text-center .mt-2,
+h5,
+p {
     text-align: left !important;
 }
 

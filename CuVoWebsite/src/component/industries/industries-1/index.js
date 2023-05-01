@@ -24,7 +24,7 @@ const IndustriesOne = () => {
                             <p className="mb-4 media-text-sub-heading">The Media and Entertainment (M&amp;E) industry has multiple segments that combine into one vertical; Movies/Cinema, Television, Music, Publishing, Radio, Internet, Advertising and Gaming. Moreover, trends and drivers for each of the segments vary across sub-segments, geographies and consumer segments.</p>
                         </div>
                     </div>
-                    <div className="row child1 align-items-center text-center">
+                    <div className="row  align-items-center text-center">
                         <div className="col-12 col-md-12 col-sm-12">
                             <a href='https://www.youtube.com/@cuvo-info' target="_blank">
                                 <button className="btn btn-primary learn-more-btn-text" type="submit">Learn More</button>
@@ -55,7 +55,7 @@ const IndustriesOne = () => {
                         <div className="row">
                             <div className="col-md-4 col-12">
                                 <div className="overview_img">
-                                    <img src="../assets/overview_img.png" className="img-fluid" />
+                                    <img src="../assets/images/home/img_overview.png" className="img-fluid" />
                                 </div>
                             </div>
                             <div className="col-md-8 col-12">
@@ -256,7 +256,7 @@ const IndustriesOne = () => {
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-3 col-12 mb-md-0 mb-lg-0 mb-3">
-                                <div className="card">
+                                <div className="card Whitelineimg">
                                     <div className="card-body resource-whitepaper-first-box">
                                         <div className="row align-items-center">
                                             <div className="whitepapers">
@@ -269,7 +269,7 @@ const IndustriesOne = () => {
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-3 col-12 mb-md-0 mb-lg-0 mb-3">
-                                <div className="card">
+                                <div className="card Whitelineimg">
                                     <div className="card-body resource-whitepaper-first-box">
                                         <div className="row align-items-center">
                                             <div className="whitepapers">
@@ -284,7 +284,7 @@ const IndustriesOne = () => {
                         </div>
                         <div className="row row-whitepapers" >
                             <div className="col-lg-3 col-md-3 col-12 mb-md-0 mb-lg-0 mb-3">
-                                <div className="card" >
+                                <div className="card Whitelineimg" >
                                     <div className="card-body  resource-whitepaper-first-box">
                                         <div className="row align-items-center">
                                             <div className="whitepapers">
@@ -297,7 +297,7 @@ const IndustriesOne = () => {
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-3 col-12 mb-md-0 mb-lg-0 mb-3">
-                                <div className="card">
+                                <div className="card Whitelineimg">
                                     <div className="card-body resource-whitepaper-first-box">
                                         <div className="row align-items-center">
                                             <div className="whitepapers">
@@ -310,7 +310,7 @@ const IndustriesOne = () => {
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-6 col-12 mb-md-0 mb-lg-0 mb-3">
-                                <div className="card card-ebook-second">
+                                <div className="card card-ebook-second bgebook3">
                                     <div className="card-body resource-ebook-first-box">
                                         <div className="row align-items-center">
                                             <div className="whitepapers">

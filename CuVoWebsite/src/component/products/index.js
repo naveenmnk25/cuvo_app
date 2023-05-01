@@ -107,7 +107,7 @@ const Product = () => {
             <div className="row">
               <div className="col-lg-4 col-12">
                 <div className="overview_img">
-                  <img src="./assets/overview_img.png" className="img-fluid" />
+                  <img src="../assets/images/home/img_overview.png" className="img-fluid" />
                 </div>
               </div>
               <div className="col-lg-8 col-12">
@@ -215,7 +215,7 @@ const Product = () => {
                                 <div className="row">
                                   <div className="col-3 col-md-12 col-lg-12">
                                     <img
-                                      src="../assets/image 50.png"
+                                      src="../assets/images/icon/ic_mobile.png"
                                       alt=""
                                       className="img-fluid img-fluid-image-50"
                                     />
@@ -274,12 +274,12 @@ const Product = () => {
                         </Link>
                       </div>
                       <div
-                        className="tab-pane fade"
+                        className="tab-pane fade "
                         id="contact-vertical"
                         role="tabpanel"
                         aria-labelledby="contact-vertical-tab"
                       >
-                        <div className="customers">
+                        <div className="customers ps-4">
                           <h1>Consumer 360</h1>
                           <p className="desc">
                             See and act on your user feedback in one place
@@ -291,7 +291,7 @@ const Product = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -306,7 +306,7 @@ const Product = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -321,7 +321,7 @@ const Product = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -336,12 +336,12 @@ const Product = () => {
                         </Link>
                       </div>
                       <div
-                        className="tab-pane fade"
+                        className="tab-pane fade "
                         id="profile-vertical"
                         role="tabpanel"
                         aria-labelledby="profile-vertical-tab"
                       >
-                        <div className="customers">
+                        <div className="customers ps-4">
                           <h1>Zero-Code Configuration</h1>
                           <p className="desc">
                             Save developer time for building your product.
@@ -353,7 +353,7 @@ const Product = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -368,7 +368,7 @@ const Product = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -383,7 +383,7 @@ const Product = () => {
                               <div className="row">
                                 <div className="col-3 col-md-12 col-lg-12">
                                   <img
-                                    src="../assets/image 50.png"
+                                    src="../assets/images/icon/ic_mobile.png"
                                     alt=""
                                     className="img-fluid img-fluid-image-50"
                                   />
@@ -426,7 +426,7 @@ const Product = () => {
               <div className="row">
                 <div className="col-12 col-lg-3 col-md-6">
                   <div className="card p-lg-4 px-3 pt-3">
-                    <img src="../assets/image 50.png" alt="..." />
+                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                     <div className="card-body px-0">
                       <h5 className="card-title capabilities-card">
                         Unique selling point 1
@@ -440,7 +440,7 @@ const Product = () => {
                 </div>
                 <div className="col-12 col-lg-3 col-md-6">
                   <div className="card p-lg-4 px-3 pt-3">
-                    <img src="../assets/image 50.png" alt="..." />
+                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                     <div className="card-body px-0">
                       <h5 className="card-title capabilities-card">
                         Unique selling point 1
@@ -454,7 +454,7 @@ const Product = () => {
                 </div>
                 <div className="col-12 col-lg-3 col-md-6">
                   <div className="card p-lg-4 px-3 pt-3">
-                    <img src="../assets/image 50.png" alt="..." />
+                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                     <div className="card-body px-0">
                       <h5 className="card-title capabilities-card">
                         Unique selling point 1
@@ -468,7 +468,7 @@ const Product = () => {
                 </div>
                 <div className="col-12 col-lg-3 col-md-6">
                   <div className="card p-lg-4 px-3 pt-3">
-                    <img src="../assets/image 50.png" alt="..." />
+                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                     <div className="card-body px-0">
                       <h5 className="card-title capabilities-card">
                         Unique selling point 1

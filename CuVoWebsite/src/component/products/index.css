@@ -18,7 +18,7 @@
 }
 
 .product-page-banner {
-    background-image: url(../../../public/assets/images/product/img_home.png) !important;
+    background-image: url(../../../public/assets/images/home/img_home.png) !important;
 }
 
 .product-2 {
@@ -104,7 +104,7 @@
 /* changes */
 
 button.btn.btn-primary.book-demo-submt-btn {
-    background: #2858D3;
+    /* background: #2858D3; */
 }
 
 .sticky-nav {

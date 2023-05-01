@@ -13,7 +13,7 @@
 }
 
 .text-overlap-with-image-text {
-    color: #FFFFFF;
+    color: #FFFFFF !important;
 }
 
 .text-overlap-with-image {

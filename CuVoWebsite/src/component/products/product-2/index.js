@@ -1,15 +1,15 @@
 import React from 'react';
-import {useState} from 'react';
+import { useState } from 'react';
 import './index.css';
 
 const ProductTwo = () => {
 
-    const {useState,Fragment} = React;
+    const { useState, Fragment } = React;
     const [active, setActive] = useState("");
     const handleClick = (event) => {
         setActive(event.target.id);
-      }
-      
+    }
+
     return (
         <div>
             <section className="banner product-detail-banner">
@@ -52,7 +52,7 @@ const ProductTwo = () => {
                         <div className="row">
                             <div className="col-4">
                                 <div className="overview_img">
-                                    <img src="../assets/image 43.png" className="img-fluid" />
+                                    <img src="../assets/images/home/img_product_de.png" className="img-fluid" />
                                 </div>
                             </div>
                             <div className="col-8">
@@ -60,7 +60,7 @@ const ProductTwo = () => {
                                     <h3 className="p-0">Overview</h3>
                                     <p>
                                         Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut convallis elementum, nisi erat molestie dui, nec lobortis nulla nisl et ex. Nam commodo, magna ut dapibus egestas, dui mauris convallis quam, sed auctor sem leo vitae metus. Suspendisse sit amet neque turpis.
-                                    </p> 
+                                    </p>
                                     <p>
                                         Suspendisse interdum purus nec neque pharetra, nec dapibus massa interdum. In elit magna, dictum sed rhoncus nec, venenatis at turpis. Aenean eu magna nunc. Maecenas id ipsum turpis. Mauris auctor id risus eu aliquet. Aliquam justo sem, laoreet non risus vel, mollis feugiat dui. Nulla consectetur est lobortis blandit aliquet. Nam interdum et enim vel mattis.
                                     </p>
@@ -112,15 +112,15 @@ const ProductTwo = () => {
                                                 <div className="row mobile-row">
                                                     <div className="col right-border text-center">
                                                         <div className="mt-2">
-                                                            <img src="../assets/image 58.png" alt="" className="w-auto img-sto" />
+                                                            <img src="../assets/images/icon/ic_android.png" alt="" className="w-auto img-sto" />
 
-                                                            <img src="../assets/image 60.png" alt="" className="w-auto img-sto me-2" />
+                                                            <img src="../assets/images/icon/ic_apple.png" alt="" className="w-auto img-sto me-2" />
                                                         </div>
                                                         <h5 className="text-white mt-3">iOS and Android</h5>
                                                         <p className="productDesc text-white">Ionic support (Coming Soon)</p>
                                                     </div>
                                                     <div className="col right-border ms-3">
-                                                        <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                        <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                         <h5 className="text-white">Mobile first UX</h5>
                                                         <p className="productDesc text-white">Highly customizable look and feel</p>
                                                     </div>
@@ -143,19 +143,19 @@ const ProductTwo = () => {
                                             pharetra, nec dapibus massa interdum.</p>
                                         <div className="d-flex justify-content-between">
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
@@ -172,19 +172,19 @@ const ProductTwo = () => {
                                             pharetra, nec dapibus massa interdum.</p>
                                         <div className="d-flex justify-content-between">
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5 right-border">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
                                             </div>
                                             <div className="d-flex flex-column p-5">
-                                                <img src="../assets/image 50.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
+                                                <img src="../assets/images/icon/ic_mobile.png" alt="" className="img-fluid mobile-first-UX-image-50" width="66px" height="66px" />
                                                 <h5 className="text-white">Mobile App</h5>
                                                 <p className="productDesc text-white">Mauris hendrerit lectus a porta molestie. Etiam congue, lacus ut
                                                     convallis elementum, nisi erat </p>
@@ -214,7 +214,7 @@ const ProductTwo = () => {
                         <div className="row">
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -223,7 +223,7 @@ const ProductTwo = () => {
                             </div>
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -232,7 +232,7 @@ const ProductTwo = () => {
                             </div>
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -241,7 +241,7 @@ const ProductTwo = () => {
                             </div>
                             <div className="col-12 col-md-3 col-lg-3">
                                 <div className="card p-4">
-                                    <img src="../assets/image 50.png" alt="..." />
+                                    <img src="../assets/images/icon/ic_mobile.png" alt="..." />
                                     <div className="card-body px-0">
                                         <h5 className="card-title">Unique selling point 1</h5>
                                         <p>Get live feedback from your users while they are in the experience and respond in real-time</p>
@@ -259,7 +259,7 @@ const ProductTwo = () => {
                             <h2 className="fw-bold">Explore the platform</h2>
                             <p>Phasellus imperdiet mattis lectus eget auctor. Praesent varius elit venenatis ligula faucibus, id iaculis ligula luctus. Cras elementum hendrerit lectus, non sodales lacus tempor eget. Donec at dui orci.</p>
                             <div className="d-flex">
-                            <a href='https://www.youtube.com/@cuvo-info' target="_blank"><button className="btn btn-primary me-2" type="submit">WATCH A DEMO</button></a>
+                                <a href='https://www.youtube.com/@cuvo-info' target="_blank"><button className="btn btn-primary me-2" type="submit">WATCH A DEMO</button></a>
                                 <button className="btn btn-primary" type="submit">Early Adopters</button>
                             </div>
                         </div>
