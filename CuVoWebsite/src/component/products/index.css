@@ -18,7 +18,7 @@
 }
 
 .product-page-banner {
-    background-image: url(../../../public/assets/img_home.png) !important;
+    background-image: url(../../../public/assets/images/product/img_home.png) !important;
 }
 
 .product-2 {
@@ -26,23 +26,23 @@
     width: 100%;
 }
 
-.capabilities-des{
+.capabilities-des {
     color: #040000;
     opacity: 0.6;
     padding-top: 0.4em;
 }
 
-.capabilities-card{
+.capabilities-card {
     color: #040000;
     font-size: 19px;
 }
 
-.card-dec{
+.card-dec {
     color: #040000;
     opacity: 0.5 !important;
 }
 
-.read-more-btn{
+.read-more-btn {
     width: 149px;
     height: 44px;
     left: 645px;
@@ -52,12 +52,12 @@
 }
 
 /*need to review*/
-.case-stu-section{
+.case-stu-section {
     background-color: #EEF1F7 !important;
 }
 
 
-.book-demo-dec{
+.book-demo-dec {
     font-size: 14px;
     line-height: 22px;
     color: #040000;
@@ -74,7 +74,7 @@
     line-height: 18px !important;
 } */
 
-.product-flex-img{
+.product-flex-img {
     margin-top: 122px;
 }
 
@@ -88,8 +88,8 @@
 }
 
 .capability-sec .py-lg-5 {
-    padding-top: 4rem!important;
-    padding-bottom: 3rem!important;
+    padding-top: 4rem !important;
+    padding-bottom: 3rem !important;
 }
 
 #product-name .tab-vertical .nav-tabs .nav-link {
@@ -97,7 +97,7 @@
 }
 
 .mobile-row .mt-2 {
-    margin-top: 0.5rem!important;
+    margin-top: 0.5rem !important;
     margin-right: 58px;
 }
 
@@ -105,4 +105,9 @@
 
 button.btn.btn-primary.book-demo-submt-btn {
     background: #2858D3;
+}
+
+.sticky-nav {
+    top: 0;
+    z-index: 100000;
 }
